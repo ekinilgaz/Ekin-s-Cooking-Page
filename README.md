@@ -155,8 +155,8 @@
 
     <!-- IMAGE 2 -->
     <div class="recipe">
-      <a href="cake.html">
-        <img src="featured-stovetop-burgers-recipe.jpg" alt="Cake Recipe">
+      <a href="burger.html">
+        <img src="featured-stovetop-burgers-recipe.jpg" alt="Burger Recipe">
       </a>
     </div>
 

@@ -149,7 +149,7 @@
     <!-- IMAGE 1 -->
     <div class="recipe">
       <a href="pasta.html">
-        <img src="images/pasta.jpg" alt="Pasta Recipe">
+        <img src="Spicy-Pasta-recipe-optimised-scaled.webp" alt="Pasta Recipe">
       </a>
     </div>
 

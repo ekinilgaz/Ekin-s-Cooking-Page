@@ -166,6 +166,21 @@
         <img src="Caesar-Salad-9.jpg" alt="Salad Recipe">
       </a>
     </div>
+<div class="right">
+  <h3>Recipes</h3>
+
+  <div class="recipe">
+    <a href="pasta.html"><img src="images/pasta.jpg" alt="Pasta Recipe"></a>
+  </div>
+
+  <div class="recipe">
+    <a href="cake.html"><img src="images/cake.jpg" alt="Cake Recipe"></a>
+  </div>
+
+  <div class="recipe">
+    <a href="cesarsalad.html"><img src="images/Caesar-Salad-9.jpg" alt="Caesar Salad Recipe"></a>
+  </div>
+</div>
 
     <!-- ➕ ADD MORE RECIPES HERE -->
   </div>

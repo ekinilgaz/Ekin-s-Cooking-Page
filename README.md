@@ -163,7 +163,7 @@
     <!-- IMAGE 3 -->
     <div class="recipe">
       <a href="cesarsalad.html">
-        <img src="images/salad.jpg" alt="Salad Recipe">
+        <img src="Caesar-Salad-9.jpg" alt="Salad Recipe">
       </a>
     </div>
 

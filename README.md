@@ -160,7 +160,7 @@
       </a>
     </div>
 
-    <!-- IMAGE 3 -->Caesar-Salad-9.jpg
+    <!-- IMAGE 3 -->
     <div class="recipe">
       <a href="cesarsalad.html">
         <img src="images/salad.jpg" alt="Salad Recipe">

@@ -146,12 +146,99 @@
   <div class="right">
     <h3>Recipes</h3>
 
-    <!-- IMAGE 1 -->
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Recipes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>My Favorite Recipes</h1>
+
+  <section class="recipes">
     <div class="recipe">
       <a href="pasta.html">
-        <img src="Spicy-Pasta-recipe-optimised-scaled.webp" alt="Pasta Recipe">
+        <img src="Spicy-Pasta-recipe-optimised-scaled.webp" alt="Spicy pasta recipe">
+        <h2>Spicy Pasta</h2>
       </a>
     </div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Spicy Pasta Recipe</title>
+</head>
+<body>
+
+  <h1>Spicy Pasta</h1>
+  <img src="Spicy-Pasta-recipe-optimised-scaled.webp" alt="Spicy pasta">
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>Pasta</li>
+    <li>Olive oil</li>
+    <li>Garlic</li>
+    <li>Chili flakes</li>
+    <li>Tomato sauce</li>
+    <li>Salt & pepper</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Boil pasta according to package instructions.</li>
+    <li>Heat olive oil and sauté garlic.</li>
+    <li>Add chili flakes and tomato sauce.</li>
+    <li>Mix in pasta and season.</li>
+  </ol>
+
+  <a href="index.html">⬅ Back to recipes</a>
+
+</body>
+</html>
+
+
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Burger Recipe</title>
+</head>
+<body>
+
+  <h1>Juicy Burger</h1>
+  <img src="featured-stovetop-burgers-recipe.jpg" alt="Burger">
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>Beef patty</li>
+    <li>Burger buns</li>
+    <li>Cheese</li>
+    <li>Lettuce</li>
+    <li>Tomato</li>
+    <li>Salt & pepper</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Season the beef patty.</li>
+    <li>Cook on a hot pan or grill.</li>
+    <li>Add cheese and let it melt.</li>
+    <li>Assemble burger with toppings.</li>
+  </ol>
+
+  <a href="index.html">⬅ Back to recipes</a>
+
+</body>
+</html>
+
+  </section>
+
+</body>
+</html>
+
 
     <!-- IMAGE 2 -->
     <div class="recipe">
